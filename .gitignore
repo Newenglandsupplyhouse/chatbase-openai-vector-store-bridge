@@ -1,0 +1,7 @@
+.env
+cloudflared.exe
+live-processes.json
+server.log
+server-error.log
+tunnel.log
+tunnel-error.log
